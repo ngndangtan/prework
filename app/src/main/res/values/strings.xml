@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">todo_list</string>
+    <string name="action_settings">Settings</string>
+    <string name="Add_New_item">New Item</string>
+    <string name="add_new_task">Add new</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="Edit_label">Edit Item Bellow</string>
+    <string name="Edit_Item_label" />
+    <string name="save_edit">SAVE</string>
+</resources>
